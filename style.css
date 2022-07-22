@@ -1,0 +1,33 @@
+#ff {
+    margin: auto;
+    align-items: center;
+    padding: 50px 50px 50px 50px;
+    height: 300px;
+    width: 800px;
+    border: 19px;
+    box-shadow: 0 8px 32px 0 rgba(95, 93, 94, 0.37);
+}
+
+.cont {
+    height: auto;
+    width: auto;
+    padding: 30px;
+}
+
+.tocont {
+    margin: auto;
+    align-items: center;
+    padding: 30px 30px 30px;
+    width: 1000px;
+    border: 11px;
+}
+
+.wall {
+    background-color: #2f4353;
+    background-image: linear-gradient(315deg, #2f4353 0%, #d2ccc4 74%);
+}
+
+* {
+    margin: auto;
+    height: auto;
+}
